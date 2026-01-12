@@ -74,55 +74,22 @@ fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛒 **[WYLF-Commerce](https://github.com/abdelrahman-shehata99/WYLF-Commerce)** | E-Commerce App With Built-in Dashboard | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| 💻 **[B-Tech](https://github.com/abdelrahman-shehata99/B-Tech)** | Tech Store Mobile Application | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| 🎬 **[Netflix Clone](https://github.com/abdelrahman-shehata99/netflix)** | Netflix UI Clone Application | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| 📸 **[Instagram Clone](https://github.com/abdelrahman-shehata99/Instagram_Clone)** | Instagram UI/UX Clone | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| 💼 **[Easy Freelancing](https://github.com/abdelrahman-shehata99/easy_freelancing_app)** | Freelancing Platform App | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/abdelrahman-shehata99">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdelrahman-shehata99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=667eea&title_color=667eea&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdelrahman-shehata99&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea"/>
-  </a>
-  
+
+![GitHub Stats](https://img.shields.io/badge/Public%20Repos-9-667eea?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-100+-764ba2?style=for-the-badge&logo=git&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-x2-00d4aa?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <div align="center">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-  </a>
-  
-</div>
+| 🔥 Streak Stats | 📈 Contribution |
+|:---------------:|:---------------:|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-shehata99&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea) |
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-shehata99&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff" width="98%"/>
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-shehata99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-  
 </div>
 
 ---
@@ -132,8 +99,8 @@ fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
 <div align="center">
   
 <a href="https://github.com/abdelrahman-shehata99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-shehata-9a20b41b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:abdelrahman2490@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
