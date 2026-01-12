@@ -1,13 +1,13 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdelrahman%20Shehata&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Flutter%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdelrahman%20Shehata&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Flutter%20Enthusiast%20|%20AI%20Expert&descSize=18&descAlignY=55" width="100%"/>
 
 </div>
 
 <p align="center">
   <a href="https://github.com/abdelrahman-shehata99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=Building+Beautiful+Mobile+Experiences;Flutter+%26+Dart+Developer;Passionate+about+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=Building+Beautiful+Mobile+Experiences;Flutter+%26+Dart+Developer;AI+Expert+%26+Enthusiast;Passionate+about+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,16 +25,18 @@
 name: Abdelrahman Shehata
 located_in: Egypt 🇪🇬
 current_company: "@iStoria"
-role: Mobile App Developer
+role: Mobile App Developer & AI Expert
 
 fields_of_interests:
   - Mobile Development
+  - Artificial Intelligence
   - Cross-Platform Apps
   - UI/UX Design
   - Clean Architecture
 
 currently_learning:
   - Advanced Flutter Patterns
+  - AI & Machine Learning
   - State Management
   - Backend Integration
   
@@ -53,6 +55,12 @@ fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
 <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
+
+### 🤖 AI & Machine Learning
+
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
 
 ### 🔥 Backend & Database
 
@@ -85,9 +93,9 @@ fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
 
 <div align="center">
   
-| 🔥 Streak Stats | 📈 Contribution |
-|:---------------:|:---------------:|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-shehata99&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea) |
+| 🔥 Streak Stats |
+|:---------------:|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea) |
 
 </div>
 
