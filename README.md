@@ -1,93 +1,150 @@
-<br clear="right"/>
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdelrahman%20Shehata&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20Flutter%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/abdelrahman-shehata99">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=Building+Beautiful+Mobile+Experiences;Flutter+%26+Dart+Developer;Passionate+about+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/abdelrahman-shehata99?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=667eea)](https://github.com/abdelrahman-shehata99?tab=followers)
+  [![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman-shehata99&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS)](https://github.com/abdelrahman-shehata99)
+  
+</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+
+```yaml
+name: Abdelrahman Shehata
+located_in: Egypt 🇪🇬
+current_company: "@iStoria"
+role: Mobile App Developer
+
+fields_of_interests:
+  - Mobile Development
+  - Cross-Platform Apps
+  - UI/UX Design
+  - Clean Architecture
+
+currently_learning:
+  - Advanced Flutter Patterns
+  - State Management
+  - Backend Integration
+  
+fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  
+<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+<a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
 
 ### 🔥 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+<a href="#"><img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/></a>
 
-</div>
+### 🧰 Tools & Platforms
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
-
-<div align="center">
-
-[![WYLF-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-shehata99&repo=WYLF-Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/abdelrahman-shehata99/WYLF-Commerce)
-[![B-Tech](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-shehata99&repo=B-Tech&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/abdelrahman-shehata99/B-Tech)
-
-[![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-shehata99&repo=netflix&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/abdelrahman-shehata99/netflix)
-[![Instagram Clone](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman-shehata99&repo=Instagram_Clone&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/abdelrahman-shehata99/Instagram_Clone)
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> &nbsp;GitHub Analytics
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 **[WYLF-Commerce](https://github.com/abdelrahman-shehata99/WYLF-Commerce)** | E-Commerce App With Built-in Dashboard | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 💻 **[B-Tech](https://github.com/abdelrahman-shehata99/B-Tech)** | Tech Store Mobile Application | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 🎬 **[Netflix Clone](https://github.com/abdelrahman-shehata99/netflix)** | Netflix UI Clone Application | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 📸 **[Instagram Clone](https://github.com/abdelrahman-shehata99/Instagram_Clone)** | Instagram UI/UX Clone | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 💼 **[Easy Freelancing](https://github.com/abdelrahman-shehata99/easy_freelancing_app)** | Freelancing Platform App | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-shehata99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=667eea&title_color=667eea" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
+  <a href="https://github.com/abdelrahman-shehata99">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdelrahman-shehata99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=667eea&title_color=667eea&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdelrahman-shehata99&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea"/>
+  </a>
   
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-shehata99&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" />
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=abdelrahman-shehata99&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+  </a>
+  
 </div>
 
 <div align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-shehata99&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=ffffff" width="98%"/>
+  
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-shehata99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> &nbsp;Connect With Me
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelrahman-shehata99)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-shehata)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
   
-  ### 💭 Random Dev Quote
+<a href="https://github.com/abdelrahman-shehata99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+</div>
+
+---
+
+<div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 Dev Quote of the Day
   
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
 </div>
 
 ---
@@ -98,17 +155,8 @@
   
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/abdelrahman-shehata99">Abdelrahman Shehata</a> with ❤️</sub>
+  
+  ⭐️ From [Abdelrahman Shehata](https://github.com/abdelrahman-shehata99) with ❤️
+  
 </div>
