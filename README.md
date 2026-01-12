@@ -114,16 +114,6 @@ fun_fact: "I turn coffee into beautiful mobile apps ☕→📱"
 
 <div align="center">
   
-### 💭 Dev Quote of the Day
-  
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
-</div>
-
----
-
-<div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
   
 </div>
